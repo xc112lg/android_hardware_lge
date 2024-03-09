@@ -30,7 +30,7 @@ import android.preference.PreferenceManager;
 import android.provider.Settings;
 import android.util.Log;
 
-import org.lineageos.internal.util.FileUtils;
+import com.android.internal.util.custom.FileUtils;
 
 public class LGGestureService extends Service {
 
