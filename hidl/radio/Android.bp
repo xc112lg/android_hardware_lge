@@ -31,9 +31,5 @@ cc_binary {
         "lineage.hardware.radio@1.0",
         "lineage.hardware.radio@1.1",
         "lineage.hardware.radio@1.2",
-        "lineage.hardware.radio@1.3",
-        "lineage.hardware.radio@1.4",
-        "lineage.hardware.radio@1.5",
-        "lineage.hardware.radio@1.6",
     ],
 }
