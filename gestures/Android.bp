@@ -14,7 +14,7 @@ android_app {
     privileged: true,
 
     static_libs: [
-        "org.lineageos.platform.internal",
+        "org.lineageos.settings.utils",
         "org.lineageos.settings.resources",
     ],
 
